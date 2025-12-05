@@ -1,4 +1,4 @@
-## 🌟 Ola, sou Thais Verissimo
+## 🌟 Olá, sou Thais Verissimo
 
 Bem-vindo(a) ao meu GitHub!
 Sou estudante e desenvolvedora em evolução, com foco em estrutura de dados, C/C++, banco de dados, e também experiências em UX/UI, prototipação e documentação técnica.
